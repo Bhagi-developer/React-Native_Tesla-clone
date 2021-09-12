@@ -1,11 +1,11 @@
 # Tesla-clone
 A React Native App
 
-# Guess-A-Number
+# Tesla Clone
  A Game App Created In React Native.
 
- ## [LinkedIn](https://www.linkedin.com/posts/bhagirathsinh-makwana-b5a199194_reactnative-reactdeveloper-project-activity-6841355622420688896-CBGy)
- ## [Youtube](https://youtu.be/A-9LRV0U0I4)
+ ## [LinkedIn](https://www.linkedin.com/posts/bhagirathsinh-makwana-b5a199194_project-reactnative-react-activity-6842484531300237312-suvS)
+ ## [Youtube](https://youtu.be/moCpjloFO_g)
  
  
 ## create a Dev Enviroment To Run The App
