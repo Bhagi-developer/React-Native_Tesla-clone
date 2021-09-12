@@ -35,7 +35,7 @@ A React Native App
  Now I have provided other folders and files that you have to copy in the project subfolder inorder to run the app.
 
 ## Inorder to run the app
-now open the IDE terminal and run "nmp start".
+now open the IDE terminal and run "npm start".
 It will open an Expo Browser window.
 Now there are many options for you to run the app in different places or platforms.
 
